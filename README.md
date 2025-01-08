@@ -2,8 +2,6 @@
 
 ## Based off <a href="[https://medium.com/@jpmtech](https://uxplanet.org/16-ui-design-tips-ba2e7524d203)">Adham Dannaway</a>
 
-This is based off Chase's Medium article about creating an onboarding walkthrough for new users. This project creates an iOS app that presents the user with a walkthrough of the app on first launch or after major revisions.
-
 This is based off Adham's article on improving iOS designs. The UI is a paged tab view that displays a "broken" design and it's improved counterpart. I tried to match Adham's color and font but probably missed.
 
 ## Article Link
